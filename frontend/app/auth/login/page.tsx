@@ -97,7 +97,7 @@ const LoginForm = () => {
                             >
                               Log in
                             </button>
-                            <a className="text-gray-500" href="#!">Forgot password?</a>
+                            {/* <a className="text-gray-500" href="#!">Forgot password?</a> */}
                           </div>
                         </form>
                       </div>
